@@ -52,7 +52,7 @@ This project demonstrates efficient fine-tuning of small language models using L
   - Repetition penalty and temperature adjustments were applied to reduce output duplication.
   - `max_new_tokens` used to control output length.
 
-# training_loss_curve
+
 
 ![Training Loss Curve](training_loss_curve.png)
 
