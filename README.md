@@ -31,6 +31,9 @@ This project demonstrates efficient fine-tuning of small language models using L
   - Fine-tuned model saved for easy inference reuse
 
 -------------------------
+## Notebook Link
+Since GitHub cannot render this notebook properly, you can open and run it on Google Colab using the following link:  
+ [Open Notebook in Colab](https://colab.research.google.com/drive/1iPUP8HUkthctOvQPeQl4yjGvtrpB16az)
 
 # Training Details
 
