@@ -54,7 +54,6 @@ This project demonstrates efficient fine-tuning of small language models using L
 
 
 
-![Training Loss Curve](training_loss_curve.png)
 
 
 ------------------------------------
