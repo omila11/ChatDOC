@@ -1,0 +1,56 @@
+Prompt: How to schedule a doctor appointment?
+Base Model Output: Schedule a doctor's appointment with your doctor.
+Fine-Tuned Output: If you want to schedule a doctor's appointment, call the office of your doctor and ask for a referral.
+------------------------------------------------------------
+Prompt: What are the visiting hours for the hospital?
+Base Model Output: 8:00 am - 10:00 pm
+Fine-Tuned Output: 6:00 AM to 10:00 AM
+------------------------------------------------------------
+Prompt: How can I get my lab test results?
+Base Model Output: Get a sample of your lab test results.
+Fine-Tuned Output: If you have a lab test, you may need to get the results of your lab tests.
+------------------------------------------------------------
+Prompt: Explain the procedure for blood donation.
+Base Model Output: Blood donation is a procedure that requires the blood to be removed from the body.
+Fine-Tuned Output: Blood donation is a form of blood donation.
+------------------------------------------------------------
+Prompt: Can I reschedule my appointment online?
+Base Model Output: No
+Fine-Tuned Output: Is there anything else you can do to cancel your appointment?
+------------------------------------------------------------
+Prompt: What documents are needed for a health checkup?
+Base Model Output: a medical certificate
+Fine-Tuned Output: Medical records
+------------------------------------------------------------
+Prompt: How do I contact the help desk?
+Base Model Output: Contact the Help Desk if you have questions.
+Fine-Tuned Output: Contact the help desk.
+------------------------------------------------------------
+Prompt: Is there a teleconsultation option available?
+Base Model Output: Teleconsultation is a service that can be used to provide you with information about the status of your business.
+Fine-Tuned Output: Teleconsultation is a service that can be used to conduct an online consultation.
+------------------------------------------------------------
+Prompt: How do I cancel an appointment?
+Base Model Output: Can I cancel an appointment?
+Fine-Tuned Output: You can cancel the appointment at any time.
+------------------------------------------------------------
+Prompt: Provide tips for first-time hospital visitors.
+Base Model Output: Tips for first-time hospital visitors.
+Fine-Tuned Output: First-time hospital visitors should be given tips on how to get in and out of the hospital.
+------------------------------------------------------------
+Prompt: What vaccines are available for adults at the clinic?
+Base Model Output: bronchitis
+Fine-Tuned Output: Vaccines
+------------------------------------------------------------
+Prompt: How do I prepare for a routine physical examination?
+Base Model Output: Take a deep breath and take a deep breath.
+Fine-Tuned Output: You will need to prepare for a routine physical examination.
+------------------------------------------------------------
+Prompt: Are there any online resources for managing chronic illnesses?
+Base Model Output: no
+Fine-Tuned Output: online resources for managing chronic illnesses
+------------------------------------------------------------
+Prompt: What is the process to request a medical certificate?
+Base Model Output: Requesting a medical certificate is the first step in seeking a medical certificate.
+Fine-Tuned Output: Requesting a medical certificate is the first step in requesting a medical certificate.
+------------------------------------------------------------
